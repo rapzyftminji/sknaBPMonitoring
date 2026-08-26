@@ -1,0 +1,22 @@
+# Data & generated outputs
+dataset/
+feature_result/
+test_prediction/
+trainingLog/
+training_results/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editor / OS
+*.swp
+*.swo
+.DS_Store
+
+# Claude
+.claude/
